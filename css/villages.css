@@ -1,0 +1,27 @@
+body {
+  background-color: #fff9f4;
+}
+
+#title {
+  width: 100%;
+  text-align: center;
+  color: #1b8594;
+}
+
+#carousel {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+#photo-1{
+  height: 600px;
+}
+
+#villages-description {
+  background-color: rgba(255, 255, 255, 0.7);
+  padding: 50px;
+}
+
+#go-back-button {
+  padding-bottom: 20px;
+}
